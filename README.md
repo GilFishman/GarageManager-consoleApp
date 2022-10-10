@@ -1,6 +1,6 @@
 # GarageManager-consoleApp
 
-Computer program (Console application) that manages a vehicle garage using OOP design, including "Factory Method" design pattern.
+Computer program (Console application) that manages a vehicle garage using OOP design.
 The user interface and the logical layer which manages the object model and the logical entities of the system are separated.
 The system supplies the user with the following functions:
 
